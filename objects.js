@@ -1,4 +1,5 @@
 
 
 
-playlist = Object.assign({}, )
+var playlist = {};
+playlist.artist = "bon jovi"
